@@ -1,4 +1,3 @@
-
 # 🔍 Network Port Scanner (Python 3)
 
 A comprehensive, multithreaded **network port scanning tool** built with Python.  
